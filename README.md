@@ -49,12 +49,11 @@
 ## 📁 Featured Projects
 
 Here are a few highlights from my GitHub repositories:
-
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| **Wine Quality Classifier** | A machine learning model using K-D Trees and Random Forest to predict wine quality from physicochemical data | Python, NumPy, Pandas |
-| **Product Recommender System** | Combines Frequent Pattern Mining (FP-Growth) with Collaborative Filtering to optimize e-commerce recommendations | Python, Scikit-learn, Matplotlib |
-| **Personal Portfolio Website** | A responsive personal site built with React showcasing my skills and blog posts | React, CSS, JavaScript |
+| **Wine Quality Classifier** *(Private Repo)* | A machine learning model using K-D Trees and Random Forest to predict wine quality from physicochemical data | Python, NumPy, Pandas |
+| **Product Recommender System** *(Private Repo)* | Combines Frequent Pattern Mining (FP-Growth) with Collaborative Filtering to optimize e-commerce recommendations | Python, Scikit-learn, Matplotlib |
+<!-- | **Personal Portfolio Website** | A responsive personal site built with React showcasing my skills and blog posts | React, CSS, JavaScript | -->
 | **API-Powered Weather App** | Displays real-time weather using OpenWeatherMap API with a clean UI | HTML, CSS, JS, API |
 
 ➡️ More projects [on my GitHub profile](https://github.com/heet579)
