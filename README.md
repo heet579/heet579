@@ -53,6 +53,7 @@ Here are a few highlights from my GitHub repositories:
 |--------------|-------------|------------|
 | **Wine Quality Classifier** *(Private Repo)* | A machine learning model using K-D Trees and Random Forest to predict wine quality from physicochemical data | Python, NumPy, Pandas |
 | **Product Recommender System** *(Private Repo)* | Combines Frequent Pattern Mining (FP-Growth) with Collaborative Filtering to optimize e-commerce recommendations | Python, Scikit-learn, Matplotlib |
+| **MindCare - Mood Tracking App** *(Public Repo)* | A mental health application with mood dashboard, user registration flow, and secure authentication system | Dart, Flutter, Firebase |
 | **API-Powered Weather App** *(Public Repo)* | Displays real-time weather using OpenWeatherMap API with a clean UI | HTML, CSS, JS, API |
 <!-- | **Personal Portfolio Website** | A responsive personal site built with React showcasing my skills and blog posts | React, CSS, JavaScript | -->
 
